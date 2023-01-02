@@ -1,5 +1,5 @@
 <template>
-    <h1 class="text-h2 font-weight-bold">Not found</h1>
+    <h1 class="text-h2 font-weight-bold">Test 01</h1>
     <div>
       <v-slider
         :step="1"
