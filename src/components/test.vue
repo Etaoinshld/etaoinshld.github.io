@@ -1,5 +1,5 @@
 <template>
-    <h1 class="text-h2 font-weight-bold">Test 03</h1>
+    <h1 class="text-h2 font-weight-bold">Test 04</h1>
     <div>
       <v-slider
         :step="1"
@@ -8,16 +8,7 @@
         thumb-label
         prepend-icon="mdi-lightbulb-on-outline"
         >
-        <template v-slot:append>
-          <v-text-field
-            type="number"
-            style="width: 80px"
-            density="compact"
-            hide-details
-            variant="outlined"
-          ></v-text-field>
-        </template>
-      ></v-slider>
+        </v-slider>
   </div>
   </template>
 <script>
